@@ -16,9 +16,17 @@ Write a simple Hello World program using multiple programming languages and meth
 - C
 - C++
 - C#
-- Python
+- D
 - Dart
+- F#
 - Kotlin
+- Lua
+- PHP
+- Python
+- Ruby
+- Rust
+- Swift
+- TypeScript
 
 ## ❤️ Thanks
 
@@ -28,7 +36,7 @@ Thanks to everyone who supported
 
 Dileepa Bandara  
 ©dileepabandara.dev  
-https://dileepabandara.github.io
+<https://dileepabandara.github.io>
 
 ## 💬 Contact
 
