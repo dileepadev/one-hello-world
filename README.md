@@ -19,6 +19,7 @@ Write a simple Hello World program using multiple programming languages and meth
 - D
 - Dart
 - F#
+- Go
 - Kotlin
 - Lua
 - PHP
