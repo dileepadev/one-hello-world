@@ -29,6 +29,7 @@ Write a simple Hello World program using multiple programming languages and meth
 - PHP
 - Python
 - R
+- Racket
 - Ruby
 - Rust
 - Swift
