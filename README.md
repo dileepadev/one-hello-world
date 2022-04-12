@@ -28,6 +28,7 @@ Write a simple Hello World program using multiple programming languages and meth
 - Kotlin
 - Lua
 - PHP
+- Prolog
 - Python
 - R
 - Racket
