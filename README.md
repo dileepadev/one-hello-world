@@ -13,6 +13,7 @@ Write a simple Hello World program using multiple programming languages and meth
 
 ## 🍃 Hello World! Languages
 
+- Ada
 - C
 - C#
 - C++
