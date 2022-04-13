@@ -18,6 +18,7 @@ Write a simple Hello World program using multiple programming languages and meth
 - C#
 - C++
 - Clojure
+- CommonLisp
 - D
 - Dart
 - F#
