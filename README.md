@@ -29,6 +29,7 @@ Write a simple Hello World program using multiple programming languages and meth
 - JavaScript
 - Kotlin
 - Lua
+- Ocaml
 - PHP
 - Prolog
 - Python
