@@ -31,6 +31,7 @@ Write a simple Hello World program using multiple programming languages and meth
 - Lua
 - Ocaml
 - Octave
+- Pascal
 - PHP
 - Prolog
 - Python
