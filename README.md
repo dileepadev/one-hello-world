@@ -44,6 +44,7 @@ Write a simple Hello World program using multiple programming languages and meth
 - Swift
 - Tcl
 - TypeScript
+- Visual Basic
 
 ## ❤️ Thanks
 
