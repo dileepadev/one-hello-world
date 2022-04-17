@@ -21,6 +21,7 @@ Write a simple Hello World program using multiple programming languages and meth
 - CommonLisp
 - D
 - Dart
+- Erlang
 - F#
 - Fortran
 - Go
