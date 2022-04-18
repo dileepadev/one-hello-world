@@ -20,6 +20,7 @@ Write a simple Hello World program using multiple programming languages and meth
 - C++
 - Clojure
 - CommonLisp
+- Crystal
 - D
 - Dart
 - Elixir
