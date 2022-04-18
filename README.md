@@ -22,6 +22,7 @@ Write a simple Hello World program using multiple programming languages and meth
 - CommonLisp
 - D
 - Dart
+- Elixir
 - Erlang
 - F#
 - Fortran
