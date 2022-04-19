@@ -15,6 +15,7 @@ Write a simple Hello World program using multiple programming languages and meth
 
 - Ada
 - Assembly
+- Bash
 - C
 - C#
 - C++
