@@ -37,6 +37,7 @@ Write a simple Hello World program using multiple programming languages and meth
 - Kotlin
 - Lua
 - Nim
+- Node.js
 - Ocaml
 - Octave
 - Pascal
