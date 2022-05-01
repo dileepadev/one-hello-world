@@ -49,6 +49,7 @@ Write a simple Hello World program using multiple programming languages and meth
 - Raku
 - Ruby
 - Rust
+- Scala
 - Swift
 - Tcl
 - TypeScript
