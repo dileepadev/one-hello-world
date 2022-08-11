@@ -16,6 +16,7 @@ Write a simple Hello World program using multiple programming languages and meth
 - [Ada](https://github.com/dileepabandara/one-hello-world/blob/main/(Ada)_helloworld.adb)
 - [Assembly](https://github.com/dileepabandara/one-hello-world/blob/main/(Assembly)_helloworld.asm)
 - [Bash](https://github.com/dileepabandara/one-hello-world/blob/main/(Bash)_helloworld.sh)
+- [Blade](https://github.com/dileepabandara/one-hello-world/blob/main/(Blade)_helloworld.b)
 - [C#](https://github.com/dileepabandara/one-hello-world/blob/main/(C%23)_helloworld.cs)
 - [C](https://github.com/dileepabandara/one-hello-world/blob/main/(C)_helloworld.c)
 - [C++](https://github.com/dileepabandara/one-hello-world/blob/main/(C%2B%2B)_helloworld.cpp)
